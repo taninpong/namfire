@@ -12,3 +12,17 @@ C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.AssemblyInfo.cs
 C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.RazorTargetAssemblyInfo.cache
 C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.dll
 C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.pdb
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\bin\Debug\netcoreapp2.1\NamFireAPI.deps.json
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\bin\Debug\netcoreapp2.1\NamFireAPI.runtimeconfig.json
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\bin\Debug\netcoreapp2.1\NamFireAPI.runtimeconfig.dev.json
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\bin\Debug\netcoreapp2.1\NamFireAPI.dll
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\bin\Debug\netcoreapp2.1\NamFireAPI.pdb
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.csprojAssemblyReference.cache
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.RazorAssemblyInfo.cache
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.RazorAssemblyInfo.cs
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.AssemblyInfoInputs.cache
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.AssemblyInfo.cs
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.dll
+C:\Users\Gun\Desktop\Agile\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.pdb

@@ -14,18 +14,23 @@
 
 
 <ion-content padding>
-    <ion-grid>
-        <ion-row>
-          <ion-col col-4>
-              <button ion-button></button>
-          </ion-col>
-          <ion-col col-4>
-              <button ion-button></button>
-          </ion-col>
-          <ion-col col-4>
-              <button ion-button></button>
-          </ion-col>
-         
-        </ion-row>
-      </ion-grid>
-</ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col col-4>
+        <img src="../../assets/imgs/play.png">
+      </ion-col>
+      <ion-col col-4>
+        <img src="../../assets/imgs/play.png">
+      </ion-col>
+      <ion-col col-4>
+        <img src="../../assets/imgs/play.png">
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+  <ion-footer>
+      <ion-toolbar>
+        <button ion-button color="secondary" block (click)="back()">ส่งข้อมูล</button>
+      </ion-toolbar>
+    </ion-footer>
+  </ion-content>

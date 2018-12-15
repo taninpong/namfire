@@ -7,8 +7,45 @@
 </ion-header>
 
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+  <ion-list>
+    <ion-item>
+      <ion-label>เดือน</ion-label>
+      <ion-select [(ngModel)]="mouth">
+        <ion-option value="1">มกราคม</ion-option>
+        <ion-option value="2">กุมภาพันธ์</ion-option>
+        <ion-option value="3">มีนาคม</ion-option>
+        <ion-option value="4">เมษายน</ion-option>
+        <ion-option value="5">พฤษภาคม</ion-option>
+        <ion-option value="6">มิถุนายน</ion-option>
+        <ion-option value="7">กรกฎาคม</ion-option>
+        <ion-option value="8">สิงหาคม</ion-option>
+        <ion-option value="9">กันยายน</ion-option>
+        <ion-option value="10">ตุลาคม</ion-option>
+        <ion-option value="11">พฤศจิกายน</ion-option>
+        <ion-option value="12">ธันวาคม</ion-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>
+
+  <ion-list>
+    <ion-item>
+      <ion-label>ปี</ion-label>
+      <ion-select [(ngModel)]="year">
+        <ion-option value="1">2559</ion-option>
+        <ion-option value="2">2560</ion-option>
+        <ion-option value="3">2561</ion-option>
+        <ion-option value="4">2562</ion-option>
+        <ion-option value="5">2563</ion-option>
+        <ion-option value="6">2564</ion-option>
+        <ion-option value="7">2565</ion-option>
+        <ion-option value="8">2566</ion-option>
+        <ion-option value="9">2567</ion-option>
+        <ion-option value="10">2568</ion-option>
+        <ion-option value="11">2569</ion-option>
+        <ion-option value="12">2570</ion-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>
+
+  <button ion-button (click)="builder()">ถัดไป</button>
 </ion-content>

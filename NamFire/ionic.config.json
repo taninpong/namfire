@@ -1,0 +1,7 @@
+{
+  "name": "NamFire",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

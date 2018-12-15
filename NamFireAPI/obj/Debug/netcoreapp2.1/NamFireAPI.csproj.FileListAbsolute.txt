@@ -1,0 +1,14 @@
+C:\namfire\NamFireAPI\bin\Debug\netcoreapp2.1\NamFireAPI.deps.json
+C:\namfire\NamFireAPI\bin\Debug\netcoreapp2.1\NamFireAPI.runtimeconfig.json
+C:\namfire\NamFireAPI\bin\Debug\netcoreapp2.1\NamFireAPI.runtimeconfig.dev.json
+C:\namfire\NamFireAPI\bin\Debug\netcoreapp2.1\NamFireAPI.dll
+C:\namfire\NamFireAPI\bin\Debug\netcoreapp2.1\NamFireAPI.pdb
+C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.csprojAssemblyReference.cache
+C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.csproj.CoreCompileInputs.cache
+C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.RazorAssemblyInfo.cache
+C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.RazorAssemblyInfo.cs
+C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.AssemblyInfoInputs.cache
+C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.AssemblyInfo.cs
+C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.RazorTargetAssemblyInfo.cache
+C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.dll
+C:\namfire\NamFireAPI\obj\Debug\netcoreapp2.1\NamFireAPI.pdb
